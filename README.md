@@ -1,6 +1,6 @@
 # Will-Zeiher-bookmarkApp
 live deployment:
-https://wzeiher3.github.io/Bookmark-Application/ 
+https://wzeiher3.github.io/Will-Zeiher-bookmark-app/ 
 
 Bookmarks application for Thinkful.
 
